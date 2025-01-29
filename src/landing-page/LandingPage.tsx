@@ -24,7 +24,7 @@ const LandingPage = () => {
                   alternative, we would love to talk to you about the specifics
                   of your new or pending disability claim. Please complete our
                   free case evaluation and we will contact you within 24 hours
-                  or feel free to contact us directly at +1(773)683-3032.
+                  or feel free to contact us directly at +1(773)683-3032. 
                 </p>
                 <Link to="/contact-us">
                   <button className="bg-[#0D2E4F] text-white px-7 py-2 rounded hover:bg-blue-700">
