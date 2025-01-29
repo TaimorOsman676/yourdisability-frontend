@@ -31,7 +31,7 @@ const MarkeetingPartners = () => {
       <div className="bg-gray-400 p-4">
         <h3 className="text-lg font-semibold mb-2">LIST OF PARTNERS:</h3>
         <ul className="list-disc ml-4">
-          <li>ESP Incs Disability Services</li>
+          <li>ESP Inc Services</li>
         </ul>
       </div>
     </>

@@ -33,8 +33,8 @@ const partners = () => {
           List of Partners
         </h2>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
-          <li className="leading-relaxed">ESP Incs Disability Services</li>
-        </ul>ESP Incs Disability
+          <li className="leading-relaxed">ESP Inc Services</li>
+        </ul>ESP Inc
 
 
  
