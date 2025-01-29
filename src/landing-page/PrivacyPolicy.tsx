@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
           <h1 className="text-[50px] text-bold text-white">Privacy Policy</h1>
 
           <h5 className="bg-pink-300 w-auto inline-block px-2 text-white mt-8">
-          <Link to="/">usdisabilityadvocate.com</Link> Privacy Policy
+          <Link to="/">yourdisabilityadvocate.com</Link> Privacy Policy
           </h5>
         </div>
       </div>
@@ -32,8 +32,8 @@ const PrivacyPolicy = () => {
         </h2>
         <p className="text-gray-700 leading-relaxed mb-6">
           This privacy policy outlines how{" "}
-          <a href="http://usdisabilityadvocate.com" className="text-orange-500">
-          usdisabilityadvocate.com
+          <a href="http://yourdisabilityadvocate.com" className="text-orange-500">
+          yourdisabilityadvocate.com
           </a>{" "}
           handles personal information, including data collection, usage, and
           protection measures. The key points include:
@@ -42,8 +42,8 @@ const PrivacyPolicy = () => {
         <ol className="list-decimal pl-6 space-y-4 text-gray-700">
           <li className="leading-relaxed">
             <span className="font-semibold">Information Collection:</span>{" "}
-            <a href="http://usdisabilityadvocate.com" className="text-orange-500">
-            usdisabilityadvocate.com
+            <a href="http://yourdisabilityadvocate.com" className="text-orange-500">
+            yourdisabilityadvocate.com
             </a>{" "}
             collects personal information directly from users, such as name,
             address, and insurance details, as well as from third parties like
@@ -61,7 +61,7 @@ const PrivacyPolicy = () => {
             Information may be shared with agents, service providers, and other
             entities involved in policy processing or claims. Third parties must
             safeguard this information, and{" "}
-            <span className="font-semibold">usdisabilityadvocate.com</span> does
+            <span className="font-semibold">yourdisabilityadvocate.com</span> does
             not sell personal information.
           </li>
           <li className="leading-relaxed">
@@ -79,14 +79,14 @@ const PrivacyPolicy = () => {
           </li>
           <li className="leading-relaxed">
             <span className="font-semibold">Security Measures:</span>{" "}
-            <span className="font-semibold">usdisabilityadvocate.com</span>{" "}
+            <span className="font-semibold">yourdisabilityadvocate.com</span>{" "}
             restricts access to personal information to authorized personnel and
             implements strong physical and digital security measures to protect
             user data.
           </li>
           <li className="leading-relaxed">
             <span className="font-semibold">Policy Updates:</span>{" "}
-            <span className="font-semibold">usdisabilityadvocate.com</span> may
+            <span className="font-semibold">yourdisabilityadvocate.com</span> may
             update its privacy policy, with the latest version available on its
             website.
           </li>
@@ -94,7 +94,7 @@ const PrivacyPolicy = () => {
 
         <p className="text-gray-700 leading-relaxed mt-6">
           For further concerns, users can contact{" "}
-          <span className="font-semibold">usdisabilityadvocate.com</span> through
+          <span className="font-semibold">yourdisabilityadvocate.com</span> through
           provided email and mailing addresses.
         </p>
       </div>

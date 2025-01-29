@@ -23,7 +23,7 @@ const partners = () => {
           </h1>
 
           <h5 className="bg-pink-300 w-auto inline-block px-2 text-white mt-8">
-          <Link to="/">usdisabilityadvocate.com</Link>/ Marketing Partners
+          <Link to="/">yourdisabilityadvocate.com</Link>/ Marketing Partners
           </h5>
         </div>
       </div>
@@ -33,8 +33,8 @@ const partners = () => {
           List of Partners
         </h2>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
-          <li className="leading-relaxed">Citizens Disability Services</li>
-        </ul>Citizens Disability
+          <li className="leading-relaxed">ESP Incs Disability Services</li>
+        </ul>ESP Incs Disability
 
 
  

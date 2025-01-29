@@ -21,7 +21,7 @@ const Ssdi = () => {
           <h1 className="text-[50px] text-bold text-white">SSDI</h1>
 
           <h5 className="bg-pink-300 w-auto inline-block px-2 text-white mt-8">
-            <Link to="/">usdisabilityadvocate.com </Link>/ SSDI
+            <Link to="/">yourdisabilityadvocate.com </Link>/ SSDI
           </h5>
         </div>
       </div>

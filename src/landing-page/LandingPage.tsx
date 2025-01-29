@@ -7,7 +7,7 @@ const LandingPage = () => {
       <div
         className="relative bg-cover bg-center"
         style={{
-          backgroundImage: `url('https://usdisabilityadvocate.com/wp-content/uploads/2024/10/fight-ssdi.webp')`,
+          backgroundImage: `url('https://yourdisabilityadvocate.com/wp-content/uploads/2024/10/fight-ssdi.webp')`,
         }}
       >
         <div className="absolute inset-0 bg-black/50"></div>

@@ -23,7 +23,7 @@ const MarkeetingPartners = () => {
           </h1>
 
           <h5 className="bg-pink-300 w-auto inline-block px-2 text-white mt-8">
-            <Link to="/">usdisabilityadvocate.com </Link>/ Marketing partners
+            <Link to="/">yourdisabilityadvocate.com </Link>/ Marketing partners
 
           </h5>
         </div>
@@ -31,7 +31,7 @@ const MarkeetingPartners = () => {
       <div className="bg-gray-400 p-4">
         <h3 className="text-lg font-semibold mb-2">LIST OF PARTNERS:</h3>
         <ul className="list-disc ml-4">
-          <li>Citizens Disability Services</li>
+          <li>ESP Incs Disability Services</li>
         </ul>
       </div>
     </>

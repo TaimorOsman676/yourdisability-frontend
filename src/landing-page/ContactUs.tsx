@@ -466,17 +466,17 @@ const onSubmit: SubmitHandler<FormValues> = async (values) => {
 
             <p className="text-xs text-gray-900 mt-4">
               By clicking "Agree & Submit" below I am providing my ESIGN
-              signature and express written consent agreement to Citizens Disability., and parties calling on their behalf, to contact me at the
+              signature and express written consent agreement to ESP Incs Disability., and parties calling on their behalf, to contact me at the
               number provided below for marketing purposes in order to provide
               brokerage services to connect me with a disability advocate. I
               understand that these calls and/or SMS/MMS messages include those
               using automated technology, AI generative voice, and prerecorded
               and/or artificial voice messages. I confirm that the phone number
               below is accurate, and I am the regular user of that phone. I also
-              agree to Citizens Disability Terms and Conditions and Privacy Policy. For SMS
+              agree to ESP Incs Disability Terms and Conditions and Privacy Policy. For SMS
               messages campaigns, text “STOP” to stop and “HELP” for help. Msg &
               data rates may apply. I acknowledge that my consent is not
-              required to obtain any good or service, and to contact Citizens Disability without
+              required to obtain any good or service, and to contact ESP Incs Disability without
               providing consent I can call +1(773)683-3032.
             </p>
 

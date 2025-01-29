@@ -17,7 +17,7 @@ const App = () => {
           <Link to="/">
             <img
               src="/Disability-care-logo.png"
-              alt="US Disability Adovocate Logo"
+              alt="Your Disability Advocateability Adovocate Logo"
               className="w-32 md:w-40 mx-auto md:mx-0"
             />
           </Link>
@@ -135,7 +135,7 @@ const App = () => {
           <div>
             <Link to="/">
               <h3 className="text-xl font-bold mb-4 text-white">
-                usdisabilityadvocate.com
+                yourdisabilityadvocate.com
               </h3>
             </Link>
             <div className="h-1 w-16 bg-cyan-400 mb-6"></div>
@@ -224,10 +224,10 @@ const App = () => {
                 />
               </svg>
               <a
-                href="mailto:usdisabilityadvocate.com"
+                href="mailto:yourdisabilityadvocate.com"
                 className="hover:text-cyan-400"
               >
-                info@usdisabilityadvocate.com
+                info@yourdisabilityadvocate.com
               </a>
             </div>
             <div className="flex items-start">
@@ -258,7 +258,7 @@ const App = () => {
           </div>
         </div>
         <div className="container mx-auto px-4 mt-8 pt-4 border-t border-gray-700 text-center text-sm">
-          <p>&copy; Copyright 2025 by usdisabilityadvocate.com</p>
+          <p>&copy; Copyright 2025 by yourdisabilityadvocate.com</p>
         </div>
       </footer>
     </div>

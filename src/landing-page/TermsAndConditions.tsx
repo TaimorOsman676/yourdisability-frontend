@@ -23,20 +23,20 @@ const TermsAndConditions = () => {
           </h1>
 
           <h5 className="bg-pink-300 w-auto inline-block px-2 text-white mt-8">
-          <Link to="/">usdisabilityadvocate.com</Link> Terms And Conditions
+          <Link to="/">yourdisabilityadvocate.com</Link> Terms And Conditions
           </h5>
         </div>
       </div>
 
       <section className="px-12 py-11 text-gray-900">
         <p>
-          The content on the usdisabilityadvocate.com website, including all
+          The content on the yourdisabilityadvocate.com website, including all
           information and images displayed, is provided solely for your
           personal, private, and non-commercial use. You are not permitted to
           modify, republish, post, or transmit any materials from this website,
           including any downloads, without prior consent from us. You also agree
           not to engage in systematic data collection or content extraction from
-          usdisabilityadvocate.com. We kindly request that you do not create
+          yourdisabilityadvocate.com. We kindly request that you do not create
           hyperlinks to our website from any other site without obtaining our
           permission beforehand.
         </p>
@@ -48,7 +48,7 @@ const TermsAndConditions = () => {
         </p>
         <h1 className="py-4 text-gray-900">LIMITATION OF LIABILITY</h1>
         <p className="py-4 text-gray-900">
-          usdisabilityadvocate.com will not be held liable for any damages or
+          yourdisabilityadvocate.com will not be held liable for any damages or
           injuries resulting from your use of its website. This includes, but is
           not limited to, damages or injuries caused by: (1) your use or
           inability to use the site; (2) your use or inability to use any site
@@ -83,8 +83,8 @@ const TermsAndConditions = () => {
         <br /> <br />
         <h1 className="py-4 text-gray-900">DISCLAIMER</h1>
         <p className="text-gray-900">
-          The materials provided on usdisabilityadvocate.com are offered “as is.”
-          This means that usdisabilityadvocate.com disclaims all express and
+          The materials provided on yourdisabilityadvocate.com are offered “as is.”
+          This means that yourdisabilityadvocate.com disclaims all express and
           implied warranties related to the materials on the site. This
           includes, but is not limited to, warranties that: (1) the materials
           are of a particular quality or fit for a specific purpose; (2) the
@@ -98,19 +98,19 @@ const TermsAndConditions = () => {
           site through a link from another site. However, we do not endorse or
           approve any products or information on websites that you may reach
           from our site or those linking to our site. The URL in your web
-          browser will indicate whether you are still on usdisabilityadvocate.com
+          browser will indicate whether you are still on yourdisabilityadvocate.com
           or have moved to another site.
         </p>
         <p className="py-4 text-gray-900">
-          By providing materials on our website, usdisabilityadvocate.com does not
+          By providing materials on our website, yourdisabilityadvocate.com does not
           guarantee that these materials will always be available or that you
           will qualify for the services or products offered.
-          usdisabilityadvocate.com reserves the right to terminate any or all
+          yourdisabilityadvocate.com reserves the right to terminate any or all
           parts of the website at any time without prior notice.
         </p>
         <p className="text-gray-900">
           When you create an account and select a password for accessing online
-          services on usdisabilityadvocate.com, you agree to the following
+          services on yourdisabilityadvocate.com, you agree to the following
           conditions:
         </p>
         <h2 className="text-2xl font-bold mb-4 py-4 text-gray-900">
@@ -118,15 +118,15 @@ const TermsAndConditions = () => {
         </h2>
         <ol className="list-decimal pl-6 space-y-2">
           <li>
-            <span className="font-medium">usdisabilityadvocate.com</span> is
+            <span className="font-medium">yourdisabilityadvocate.com</span> is
             authorized to act based on instructions received under your password
             without questioning their validity.
           </li>
           <li>
-            <span className="font-medium">usdisabilityadvocate.com</span> is not
+            <span className="font-medium">yourdisabilityadvocate.com</span> is not
             liable for unauthorized access to your personal information unless
             the access results directly from the negligence of{" "}
-            <span className="font-medium">usdisabilityadvocate.com</span>.
+            <span className="font-medium">yourdisabilityadvocate.com</span>.
           </li>
           <li>
             You are responsible for keeping your password confidential and
@@ -134,13 +134,13 @@ const TermsAndConditions = () => {
           </li>
           <li>
             You will notify{" "}
-            <span className="font-medium">usdisabilityadvocate.com</span>{" "}
+            <span className="font-medium">yourdisabilityadvocate.com</span>{" "}
             immediately if you believe someone else has gained access to your
             password or if there has been unauthorized access to your personal
             information.
           </li>
           <li>
-            <span className="font-medium">usdisabilityadvocate.com</span> may deny
+            <span className="font-medium">yourdisabilityadvocate.com</span> may deny
             access or block transactions under your password if unauthorized use
             is suspected, without prior notice, although it is not required to
             do so.
@@ -148,19 +148,19 @@ const TermsAndConditions = () => {
           <li>
             Violating the Terms and Conditions of Website Use may result in the
             revocation of access privileges to{" "}
-            <span className="font-medium">usdisabilityadvocate.com</span>.
+            <span className="font-medium">yourdisabilityadvocate.com</span>.
           </li>
         </ol>
         <h1 className="py-4 text-gray-900">DIGITAL ASSISTANT</h1>
         <p className="py-4 text-gray-900">
-          The US Disability Adovocate Digital Assistant is intended for
+          The Your Disability Advocateability Adovocate Digital Assistant is intended for
           informational purposes only. The information provided is not insurance
           advice and should not be interpreted as such. Any insurance decisions,
           including coverage amounts, limits, and deductibles, are the sole
-          responsibility of the insured, and usdisabilityadvocate.com is not
+          responsibility of the insured, and yourdisabilityadvocate.com is not
           liable for any inaccuracies, omissions, or misinterpretations. The
           content of the Digital Assistant is subject to change at any time, and
-          US Disability Adovocate Team makes no guarantees about the accuracy or quality
+          Your Disability Advocateability Adovocate Team makes no guarantees about the accuracy or quality
           of the information provided.
         </p>
         <h1 className="py-4 text-gray-900">PRIVACY</h1>
@@ -172,7 +172,7 @@ const TermsAndConditions = () => {
         <h1 className="py-4 text-gray-900">JURISDICTION</h1>
         <p className="py-4 text-gray-900">
           Unless otherwise noted, the materials on our site are provided to give
-          information about US Disability Adovocate and its services. Disability
+          information about Your Disability Advocateability Adovocate and its services. Disability
           Care Team operates from its headquarters in [Headquarters Location],
           and the laws of [State] will govern any actions related to the
           website. We make no claims that the materials on our site are
@@ -192,7 +192,7 @@ const TermsAndConditions = () => {
           unenforceable, the remaining provisions will still apply.
         </p>
         <p className="py-2 text-gray-900">
-          usdisabilityadvocate.com reserves the right to modify these Terms and
+          yourdisabilityadvocate.com reserves the right to modify these Terms and
           Conditions at any time by updating this page or other relevant
           sections of the website without prior notice.
         </p>
